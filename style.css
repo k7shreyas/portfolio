@@ -1,0 +1,162 @@
+body{
+	margin:0px;
+}
+
+#tt{
+	font-family: 'Sacramento', cursive;
+	font-weight: normal;
+	font-size: 100px;
+	margin-bottom: 17px;
+	color:#45b29a;
+}
+
+#sub{
+
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color:#45b29a;
+	margin-top:10px;
+}
+
+h1{
+
+}
+
+h2{
+	color:#45b29a;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 2rem;
+}
+
+h3{
+	color: #45b29a;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 1.75rem;
+}
+
+p {
+    font-family: adobe-garamond-pro, serif;
+	font-weight: 400px;
+	font-style: normal;
+	color:#545454;
+	font-size: 21px;
+}
+
+.top{
+
+	background-color: #e0ebe8;
+	padding:20px,20px,0px,20px;
+	margin-bottom: 20px;
+	text-align: center;
+	height: 718px;
+}
+
+.top-cloud{
+	width:200px;
+	position: relative;
+	bottom:25px;
+	left:175px;
+}
+
+.bottom-cloud{
+	width:200px;
+	position:absolute;
+	top:180px;
+	left:180px;
+}
+
+.profile{
+	text-align: center;
+	width:34%;
+	height: 25%;
+	margin:auto;
+	display: block;
+}
+
+.skill-row{
+	width:50%;
+	height:150px;
+	margin:auto;
+	margin-bottom: 40px;
+	text-align: left;
+	line-height: 2;
+	padding-bottom: 30px;
+}
+
+.com-img{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+}
+
+.bad-img{
+	width:25%;
+	float:right;
+	margin-left: 30px;
+}
+
+.contact-me{
+	text-align: center;
+	width: 30%;
+	margin:auto;
+	line-height: 2;
+
+}
+
+.middle-container{
+	padding-top: 60px;
+}
+
+hr{
+	border:dotted #d9dddc 6px;
+	border-bottom: none;
+	width:4%;
+	margin:100px auto;
+}
+
+.bottom-container{
+	background-color: #c5ded7;
+    text-align: center;
+    margin-top: 100px;
+    line-height: 2.5;
+    padding: 30px;
+}
+
+.footer-link{
+	color:#45b29a;
+	font-family: brandon-grotesque, sans-serif;
+	font-style: normal;
+	font-weight: 400;
+	padding-right: 60px;
+}
+
+.footer-link:hover {
+	color: #545454;
+}
+
+.button {
+  background-color: rgb(30, 131, 108); /* Green */
+  border: 1px solid rgb(30,131,109);
+  border-radius: 3px;
+  color: #e0ebe8;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width:120px;
+  font-family: source-sans-pro, sans-serif;font-weight: 400;font-style: normal;margin-top: 15px;padding-left: 35px; padding-right: 35px;
+}
+
+.button:hover{
+	background-color: #45b29a;
+}
+
+#emo{
+	color:#bc1e1b;
+}
